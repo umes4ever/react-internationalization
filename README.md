@@ -6,6 +6,7 @@ React App
 To run React app, run commands:
 1. npm i
 2. npm start
+
 React app will run on default port: 3000
 
 
