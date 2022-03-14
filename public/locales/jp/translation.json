@@ -1,0 +1,7 @@
+{
+    "title": "React国際化ガイドへようこそ",
+    "select-label": "言語を選択してください",
+    "description": {
+        "sample-text": "これはサンプルテキストです。"
+    }
+}

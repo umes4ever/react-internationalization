@@ -1,0 +1,7 @@
+{
+    "title": "Welcome to React Internationalization Guide",
+    "select-label": "Choose a Language",
+    "description": {
+        "sample-text": "This is a sample text."
+    }
+}
